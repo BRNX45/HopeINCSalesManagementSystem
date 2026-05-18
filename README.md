@@ -30,10 +30,32 @@ npm run dev
 npm run build
 ```
 
+Live Demo
+
+The application is deployed at: **https://hope-inc-sales-management-system.vercel.app/**
+
+Test Credentials
+
+Use the following test accounts to explore the application:
+
+**Admin Account:**
+- Email: `testadmin@gmail.com`
+- Password: `testadmin159`
+
+**Superadmin Account:**
+- Email: `testsuperadmin@gmail.com`
+- Password: `testsuperadmin159`
+
+**Features by Role:**
+- **User**: View dashboard and reports
+- **Admin**: Manage users, view login activity, block/unblock users
+- **Superadmin**: Full access including make/revoke admin privileges
+
 Notes
 
 - This repository contains mock data for local development. Replace or integrate with a Supabase project for real-time persistence.
 - Do not store or commit secrets or credentials in this repository.
+- Test credentials are for demonstration purposes only.
 
 License
 
