@@ -52,6 +52,15 @@ Use the following test accounts to explore the application:
 - **Admin**: Manage users, view login activity, block/unblock users
 - **Superadmin**: Full access including make/revoke admin privileges
 
+Team
+
+Role.                      Member
+Project Manager       Brix Delos Santos
+Frontend Developer    Yarcia, Irysh Pauleen
+Backend Developer     Pilar, Keithzylene
+Authentication & RLS  Leocario, Christian/ Muyargas
+QA / Documentation    Escal, Hazel Joy 
+
 Notes
 
 - This repository contains mock data for local development. Replace or integrate with a Supabase project for real-time persistence.
