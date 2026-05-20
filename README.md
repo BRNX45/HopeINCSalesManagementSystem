@@ -60,6 +60,17 @@ Use the following test accounts to explore the application:
 | Authentication & RLS | Leocario, Christian/ Muyargas      
 | QA / Documentation   | Escal, Hazel Joy       
 
+| Feature                     | SUPERADMIN | ADMIN | USER |
+| --------------------------- | :--------: | :---: | :--: |
+| View Dashboard              |      ✔     |   ✔   |   ✔  |
+| Manage Products             |      ✔     |   ✔   |   ✖  |
+| View Sales Reports          |      ✔     |   ✔   |   ✔  |
+| Manage Users                |      ✔     |   ✔   |   ✖  |
+| Assign Admin Roles          |      ✔     |   ✖   |   ✖  |
+| Block / Unblock Accounts    |      ✔     |   ✔   |   ✖  |
+| View Login Activity         |      ✔     |   ✔   |   ✖  |
+| System Configuration Access |      ✔     |   ✖   |   ✖  |
+
 
 Notes
 
