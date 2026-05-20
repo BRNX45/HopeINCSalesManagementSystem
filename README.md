@@ -2,6 +2,11 @@
 
 A Sales Management System frontend built with React, Vite, and TypeScript. It demonstrates user authentication and role-based access using Supabase, admin and superadmin controls, user management, activity logging, and analytics reports (charts via Recharts). The project includes a mock data layer for local testing and utilities to persist role changes to a Supabase backend.
 
+
+Deployment - Vercel
+
+Backend / Database - Supabase
+
 Features
 
 - Authentication with Supabase
@@ -41,10 +46,6 @@ Use the following test accounts to explore the application:
 **Admin Account:**
 - Email: `testadmin@gmail.com`
 - Password: `testadmin159`
-
-**Superadmin Account:**
-- Email: `testsuperadmin@gmail.com`
-- Password: `testsuperadmin159`
 
 **Features by Role:**
 - **User**: View dashboard and reports
