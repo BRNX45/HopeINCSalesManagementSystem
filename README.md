@@ -54,12 +54,12 @@ Use the following test accounts to explore the application:
 
 Team
 
-Role.                      Member
-Project Manager       Brix Delos Santos
-Frontend Developer    Yarcia, Irysh Pauleen
-Backend Developer     Pilar, Keithzylene
-Authentication & RLS  Leocario, Christian/ Muyargas
-QA / Documentation    Escal, Hazel Joy 
+Role                        Member
+Project Manager        Brix Delos Santos
+Frontend Developer     Yarcia, Irysh Pauleen
+Backend Developer      Pilar, Keithzylene
+Authentication & RLS   Leocario, Christian/ Muyargas
+QA / Documentation     Escal, Hazel Joy 
 
 Notes
 
